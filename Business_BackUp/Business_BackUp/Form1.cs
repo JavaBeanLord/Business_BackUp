@@ -41,6 +41,11 @@ namespace Business_BackUp{
             {
                 MessageBox.Show("Yes");
                 textBox2.Text = ("");
+                Main theMainForm = new Main();
+                theMainForm.Show();
+                this.Hide();
+
+
             }
             else 
             {

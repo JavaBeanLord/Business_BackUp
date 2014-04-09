@@ -95,7 +95,7 @@
             this.AcceptButton = this.button1;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Business_BackUp.Properties.Resources.freelancesuite1;
+            this.BackgroundImage = global::Business_BackUp.Properties.Resources.freelancesuite2;
             this.ClientSize = new System.Drawing.Size(285, 225);
             this.ControlBox = false;
             this.Controls.Add(this.button2);
