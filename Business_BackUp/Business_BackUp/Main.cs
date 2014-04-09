@@ -32,11 +32,6 @@ namespace Business_BackUp
             LoginForm.Show();
         }
 
-        private void closeToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Form1 LoginForm = new Form1();
-            LoginForm.Show();
-        }
+
     }
 }
