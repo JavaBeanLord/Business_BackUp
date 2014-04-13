@@ -39,7 +39,7 @@ namespace Business_BackUp{
         {
             if (textBox2.Text == ("password"))
             {
-                MessageBox.Show("Yes");
+                MessageBox.Show("You're Now Logged In As " + "\n" + "\n" + " User: DEMO " + "\n" + " Password: password ");
                 textBox2.Text = ("");
                 Main theMainForm = new Main();
                 theMainForm.Show();
